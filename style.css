@@ -1,0 +1,25 @@
+h1{
+	text-align:center;
+}
+
+canvas{
+	display:block;
+	margin:auto;
+	border:1px #000 solid;
+	background-color: white;
+}
+
+#myTime{
+	width:500px;
+	background-color: white;
+	display:block;
+	margin:auto;
+	font-size:36px;
+	text-align:center;
+	font-family:"Courier New", Courier, monospace;
+	font-weight:700;
+}
+
+html {
+	background-color: red;
+}
